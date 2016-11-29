@@ -1,11 +1,18 @@
 {
-  "name": "magic-hat",
+  "name": "yoda-loves-wordpress",
   "version": "1.0.0",
-  "description": "Magic Hat Wordpress Boilerplate",
+  "description": "Yoda Wordpress Boilerplate",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelMedeiros/yoda-loves-wordpress.git"
+  },
   "author": "Miguel Medeiros",
   "license": "ISC",
-  "homepage": "",
+  "bugs": {
+    "url": "https://github.com/MiguelMedeiros/yoda-loves-wordpress/issues"
+  },
+  "homepage": "https://github.com/MiguelMedeiros/yoda-loves-wordpress#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

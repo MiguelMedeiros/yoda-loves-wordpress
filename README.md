@@ -2,7 +2,7 @@
 Yoda loves Wordpress is a theme for Wordpress developtment.
 It makes your front-end and back-end faster! :)
 
-This theme is a part of Yoda Composer for Wordpress that has intagration with:
+This theme is a part of __Yoda Composer for Wordpress__ that has intagration with:
 * Composer
   * Framework: Wordpress
   * Theme: Yoda Loves Wordpress
