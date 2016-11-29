@@ -24,8 +24,6 @@ This theme is a part of [Yoda Composer for Wordpress](https://github.com/MiguelM
   * gulp-uglify
 
 ## Requirements
-* [Xampp](https://www.apachefriends.org)
-* [Git](https://git-scm.com/)
 * [Composer](https://getcomposer.org/)
 * [NodeJS](https://nodejs.org/)
 
